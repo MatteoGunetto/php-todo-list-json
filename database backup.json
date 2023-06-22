@@ -1,18 +1,18 @@
 [
     {
         "task": "Fare la valigia",
-        "done": true
+        "done": false
     }, {
         "task": "Lavare i vetri",
-        "done": true
+        "done": false
     }, {
         "task": "Comprare la pasta",
-        "done": false
+        "done": true
     }, {
         "task": "andare dal dottore",
         "done": false
     }, {
         "task": "prenotare ristorante",
-        "done": false
+        "done": true
     }
 ]
