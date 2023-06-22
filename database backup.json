@@ -2,25 +2,17 @@
     {
         "task": "Fare la valigia",
         "done": true
-    },
-    {
+    }, {
         "task": "Lavare i vetri",
         "done": true
-    },
-    {
+    }, {
         "task": "Comprare la pasta",
         "done": false
-    },
-    {
+    }, {
         "task": "andare dal dottore",
         "done": false
-    },
-    {
+    }, {
         "task": "prenotare ristorante",
-        "done": false
-    },
-    {
-        "task": "chiamare franco",
         "done": false
     }
 ]
